@@ -45,13 +45,13 @@ The folder structure of this app is explained below:
 
 | Name                        | Description                            |
 | --------------------------- | -------------------------------------- |
-| **controller/users**        | Contains the route handling operations |
-| **controller/node_modules** | Contains all npm dependencies          |
+| **controller/users**        | Contain the route handling operations |
+| **controller/node_modules** | Contain all npm dependencies          |
 | **routes/users.js**         | Contain routes                         |
-| **.env**                    | Contains environmental variables       |
-| **.gitignore**              | Contains untracking files              |
+| **.env**                    | Contain environmental variables       |
+| **.gitignore**              | Contain untracking files              |
 | **index.js**                | Entry point to express app             |
-| **package.json**            | Contains npm dependencies              |
+| **package.json**            | Contain npm dependencies              |
 
 ## Building the project
 
